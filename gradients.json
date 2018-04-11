@@ -1183,5 +1183,9 @@
     {
         "name": "Evening Night",
         "colors": ["#005AA7", "#FFFDE4"]
+    },
+    {
+        "name": "Kiosk Pink",
+        "colors": ["#BC3196", "#ECBDDF"]
     }
 ]
